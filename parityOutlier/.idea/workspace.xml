@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c65b11f-fced-47b6-8f19-cf1274d9e75b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VtRnExroWCTIcNmfUatxJuROyl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Gradle.ParityFinderTest.testExample">
+    <configuration name="ParityFinderTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ParityFinderTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ParityFinderTest.testExample" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;ParityFinderTest.testExample&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ParityFinderTest.testExample" />
+        <item itemvalue="Gradle.ParityFinderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c65b11f-fced-47b6-8f19-cf1274d9e75b" name="Default Changelist" comment="" />
+      <created>1578070569414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578070569414</updated>
+      <workItem from="1578070573444" duration="431000" />
+      <workItem from="1578071052240" duration="2363000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="242" key="#Project_Structure" timestamp="1578070583425">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="242" key="#Project_Structure/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578070583425" />
+    <state x="592" y="273" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578070624348">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="592" y="273" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578070624348" />
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom" timestamp="1578073715291">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.bottom/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073715291" />
+    <state width="1877" height="314" key="GridCell.Tab.0.center" timestamp="1578073715291">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.center/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073715291" />
+    <state width="1877" height="314" key="GridCell.Tab.0.left" timestamp="1578073715291">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.left/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073715291" />
+    <state width="1877" height="314" key="GridCell.Tab.0.right" timestamp="1578073715291">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="314" key="GridCell.Tab.0.right/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073715291" />
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom" timestamp="1578073705288">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.1.bottom/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073705288" />
+    <state width="1877" height="386" key="GridCell.Tab.1.center" timestamp="1578073705287">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.1.center/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073705287" />
+    <state width="1877" height="386" key="GridCell.Tab.1.left" timestamp="1578073705287">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.1.left/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073705287" />
+    <state width="1877" height="386" key="GridCell.Tab.1.right" timestamp="1578073705287">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="386" key="GridCell.Tab.1.right/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578073705287" />
+    <state width="1008" height="678" key="javadoc.popup.new" timestamp="1578070859390">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1008" height="678" key="javadoc.popup.new/-1920.115.1920.1040/0.0.1920.1160/1920.115.1858.1200@0.0.1920.1160" timestamp="1578070859390" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ParityFinder.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
